@@ -10,7 +10,6 @@ This project integrates **Convai’s conversational AI** with **MetaHuman avatar
 ## Setup and Installation
 1. Clone the Repository:
 ```
-git clone https://github.com/keb77/AVRProject.git
-cd AVRProject
+git clone https://github.com/keb77/Conversational-AI-for-NPC-characters.git
 ```
 2. Open the Unreal Engine project file (`AVRProject.uproject`)
